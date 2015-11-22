@@ -1,1 +1,2 @@
-
+class Article
+end
